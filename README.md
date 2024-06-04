@@ -3,12 +3,16 @@
 ## Introduction
 Spam emails are not only annoying but also time-consuming and potentially dangerous. This project aims to address the issue of spam emails by building an email spam detector using Python. By leveraging machine learning techniques, we train the spam detector to accurately classify emails as either spam or non-spam.
 
+![spam_img1](https://github.com/AnishaBeera/OIBSIP-Oasis-Infobyte-task3/assets/171479100/61bb8dc2-2624-497f-9932-970c5c6f022a)
+
 ## Features
 - Utilizes Python for building the email spam detector.
 - Applies machine learning algorithms for training and classification.
 - Implements label encoding to transform categorical data.
 - Uses Logistic Regression for the classification task.
 - Allows for custom prediction inputs.
+
+![spam_img2](https://github.com/AnishaBeera/OIBSIP-Oasis-Infobyte-task3/assets/171479100/6cc944ad-ec8f-41c5-8faa-8ea3a98a6934)
 
 ## Installation
 To run the email spam detector, ensure you have the following dependencies installed:
@@ -37,6 +41,8 @@ Evaluating the model performance using accuracy, precision, recall, and F1-score
 
 ## Custom Predictions
 The project allows for custom input predictions. You can input your own email text to classify it as spam or non-spam.
+
+![spam_img3](https://github.com/AnishaBeera/OIBSIP-Oasis-Infobyte-task3/assets/171479100/92f3bc5f-6e50-4f46-8bdf-6384339791aa)
 
 ## Conclusion
 The Email Spam Detection project addresses the pervasive issue of spam emails through the development of a robust machine learning solution. By leveraging Python and popular libraries such as NumPy, Pandas, and scikit-learn, I have constructed an efficient spam detection system.
