@@ -12,7 +12,8 @@ Spam emails are not only annoying but also time-consuming and potentially danger
 - Uses Logistic Regression for the classification task.
 - Allows for custom prediction inputs.
 
-![spam_img2](https://github.com/AnishaBeera/OIBSIP-Oasis-Infobyte-task3/assets/171479100/6cc944ad-ec8f-41c5-8faa-8ea3a98a6934)
+![spam_img2](https://github.com/AnishaBeera/OIBSIP-Oasis-Infobyte-task3/assets/171479100/96f824a3-8406-429a-b5c4-0be0ad3172f3)
+
 
 ## Installation
 To run the email spam detector, ensure you have the following dependencies installed:
